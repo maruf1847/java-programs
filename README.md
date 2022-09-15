@@ -1,2 +1,1 @@
-# java-basic
-Basic Java Program.
+All Examples for learning Java programming Basic to OOP..
